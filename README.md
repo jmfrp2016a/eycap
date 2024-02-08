@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Fix bbox2segment converter (#7814)
