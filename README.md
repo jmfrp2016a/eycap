@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Explorer with LanceDB, Actions and Docs updates (#7487)
