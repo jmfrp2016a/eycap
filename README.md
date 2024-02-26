@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add horizontal Mosaic3 augmentation (#6898)
