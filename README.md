@@ -1,1 +1,1 @@
-Add https://youtu.be/aeAX6vWpfR0 to docs & african-wildlife dataset docs page (#9102)
+fix for predicting with batch_size > 1 (#47)
